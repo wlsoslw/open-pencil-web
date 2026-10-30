@@ -1,0 +1,1 @@
+function e(e,t){let n=[],r=[];for(let i=0;i<e.length;i++){let a=e[i];t(a,i,e)?n.push(a):r.push(a)}return[n,r]}export{e as t};

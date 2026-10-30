@@ -1,0 +1,1 @@
+import{i as e}from"./permission-QK5495Wc.js";export{e as requestPermissionFromUser};

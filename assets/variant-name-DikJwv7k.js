@@ -1,0 +1,1 @@
+function e(e){let t={};for(let n of e.split(`,`).map(e=>e.trim())){let e=n.indexOf(`=`);e!==-1&&(t[n.slice(0,e).trim()]=n.slice(e+1).trim())}return t}function t(e){return Object.entries(e).map(([e,t])=>`${e}=${t}`).join(`, `)}export{e as n,t};

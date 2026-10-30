@@ -1,0 +1,1 @@
+import{n as e}from"./isEqual-HbIDtiXw.js";function t(t){return e(t)&&Object.keys(t).length===0}export{t};

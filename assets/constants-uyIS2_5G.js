@@ -1,0 +1,1 @@
+var e={r:0,g:0,b:0,a:1},t={r:1,g:1,b:1,a:1},n={r:0,g:0,b:0,a:0},r=`Inter`;export{t as i,r as n,n as r,e as t};

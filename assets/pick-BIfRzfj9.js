@@ -1,0 +1,1 @@
+function e(e,t){let n={};for(let r=0;r<t.length;r++){let i=t[r];Object.hasOwn(e,i)&&(n[i]=e[i])}return n}export{e as t};

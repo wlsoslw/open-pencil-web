@@ -1,0 +1,1 @@
+import{a as e}from"./prepare-DtJQrT0D.js";import{t}from"./prepare-BkXLxKz7.js";import{n}from"./export-CVGO98Zf.js";async function r(r,i,a,o={}){return await t(r,a),e(async e=>n(r,i,a,{textLayout:e,...o}))}export{r as t};

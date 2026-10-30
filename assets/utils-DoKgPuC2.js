@@ -1,0 +1,1 @@
+var e=/[/\\]/;function t(t){let n=t.split(e).pop();if(!n)return;let r=n.lastIndexOf(`.`);return r<=0?n:n.slice(0,r)}export{t};

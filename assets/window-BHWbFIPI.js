@@ -1,0 +1,1 @@
+import{c as e}from"./window-C9tZKAUt.js";export{e as getCurrentWindow};
